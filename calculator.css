@@ -3,8 +3,8 @@
 
 /*Calculator*/
 .box {
-	background-color: #e5e7ea;
-	height: 300px;
+	background-color: #041428;
+	height: 345px;
 	width: 250px;
 	border-radius: 10px;
 	position: relative;
@@ -28,7 +28,7 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #BCCD95;
+	background-color: #1FE0FF;
 	font-size: 21px;
 	text-align: right;
 }
